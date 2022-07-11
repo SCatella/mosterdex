@@ -15,10 +15,9 @@ body {
 }
 
 .app-title {
-  margin-top: 65px;
-  margin-bottom: 40px;
+  margin: 60px, auto;
   font-family: fantasy;
-  font-size: 60px;
-  letter-spacing: 2.5rem;
+  font-size: 7vw;
+  letter-spacing: 5vw;
   color: rgb(0, 236, 236);
 }
